@@ -40,3 +40,9 @@
 body {
   padding-top: 75px;
 }
+
+
+.carousel img {
+  height: auto;
+  object-fit: contain;
+}
